@@ -8,3 +8,5 @@ This project was created as part of the MITxPro Professional Certificate in Codi
 
 ## Built With
 React
+## License:
+This project is licensed under the MIT license. The original template is from the xPRO Full stack development course.
